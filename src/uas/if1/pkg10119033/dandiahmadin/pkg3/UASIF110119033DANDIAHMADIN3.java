@@ -9,7 +9,12 @@ import java.util.Scanner;
 
 /**
  *
- * @author Dandi Ahmadin
+ * @author 
+ * NIM : 10119033
+ * Nama : Dandi Ahmadin
+ * kelas : IF-1
+ * Tanggal : 20 Februari 2021
+ * Hari : Sabtu
  */
 public class UASIF110119033DANDIAHMADIN3 {
 
